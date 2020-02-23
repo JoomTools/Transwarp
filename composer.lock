@@ -955,12 +955,30 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/degobbis/jorobo.git",
+<<<<<<< Updated upstream
                 "reference": "40e95625c1af11ff2498253ff8b23dc9097c1997"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/degobbis/jorobo/zipball/40e95625c1af11ff2498253ff8b23dc9097c1997",
                 "reference": "40e95625c1af11ff2498253ff8b23dc9097c1997",
+=======
+<<<<<<< HEAD
+                "reference": "1b83c44e7a448385152f03c054ad8382267ad6f2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/degobbis/jorobo/zipball/1b83c44e7a448385152f03c054ad8382267ad6f2",
+                "reference": "1b83c44e7a448385152f03c054ad8382267ad6f2",
+=======
+                "reference": "40e95625c1af11ff2498253ff8b23dc9097c1997"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/degobbis/jorobo/zipball/40e95625c1af11ff2498253ff8b23dc9097c1997",
+                "reference": "40e95625c1af11ff2498253ff8b23dc9097c1997",
+>>>>>>> master
+>>>>>>> Stashed changes
                 "shasum": ""
             },
             "require": {
@@ -1002,7 +1020,15 @@
             "support": {
                 "source": "https://github.com/degobbis/jorobo/tree/gdg-dev"
             },
+<<<<<<< Updated upstream
             "time": "2018-07-15T08:18:39+00:00"
+=======
+<<<<<<< HEAD
+            "time": "2018-07-15T10:34:40+00:00"
+=======
+            "time": "2018-07-15T08:18:39+00:00"
+>>>>>>> master
+>>>>>>> Stashed changes
         },
         {
             "name": "joomla-projects/robo",
